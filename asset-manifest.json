@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/personal-resume/static/css/main.b99a0ccf.chunk.css",
+    "main.js": "/personal-resume/static/js/main.1f9b75f9.chunk.js",
+    "main.js.map": "/personal-resume/static/js/main.1f9b75f9.chunk.js.map",
+    "runtime-main.js": "/personal-resume/static/js/runtime-main.573a8857.js",
+    "runtime-main.js.map": "/personal-resume/static/js/runtime-main.573a8857.js.map",
+    "static/js/2.a0d5c6b4.chunk.js": "/personal-resume/static/js/2.a0d5c6b4.chunk.js",
+    "static/js/2.a0d5c6b4.chunk.js.map": "/personal-resume/static/js/2.a0d5c6b4.chunk.js.map",
+    "index.html": "/personal-resume/index.html",
+    "precache-manifest.8e56db3b0af05b0c7c294856be816ab6.js": "/personal-resume/precache-manifest.8e56db3b0af05b0c7c294856be816ab6.js",
+    "service-worker.js": "/personal-resume/service-worker.js",
+    "static/css/main.b99a0ccf.chunk.css.map": "/personal-resume/static/css/main.b99a0ccf.chunk.css.map",
+    "static/js/2.a0d5c6b4.chunk.js.LICENSE.txt": "/personal-resume/static/js/2.a0d5c6b4.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/personal-resume/static/media/streetBG.12d7aceb.jpg",
+    "static/media/covid19.png": "/personal-resume/static/media/covid19.11463a7e.png",
+    "static/media/githubLogo.png": "/personal-resume/static/media/githubLogo.fe1e0f52.png",
+    "static/media/movie.png": "/personal-resume/static/media/movie.7656b23c.png",
+    "static/media/myblog.png": "/personal-resume/static/media/myblog.a95308e0.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.573a8857.js",
+    "static/js/2.a0d5c6b4.chunk.js",
+    "static/css/main.b99a0ccf.chunk.css",
+    "static/js/main.1f9b75f9.chunk.js"
+  ]
+}
